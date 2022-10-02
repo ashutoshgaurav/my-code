@@ -7,3 +7,10 @@ Good luck, and I hope you are able to slay the confusing world of Makefiles!
 Makefiles are used to help decide which parts of a large program need to be recompiled. In the vast majority of cases, C or C++ files are compiled. Other languages typically have their own tools that serve a similar purpose as Make. Make can also be used beyond compilation too, when you need a series of instructions to run depending on what files have changed. This tutorial will focus on the C/C++ compilation use case.
 
 Here's an example dependency graph that you might build with Make. If any file's dependencies changes, then the file will get recompiled:
+
+The targets are file names, separated by spaces. Typically, there is only one per rule.
+The commands are a series of steps typically used to make the target(s). These need to start with a tab character, not spaces.
+The prerequisites are also file names, separated by spaces. These files need to exist before the commands for the target are run. These are also called dependencies
+
+some_text.txt
+some_text.txt
