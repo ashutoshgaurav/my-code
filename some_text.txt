@@ -16,3 +16,5 @@ yes modified...
 some_text.txt
 
 ashutosh gaurav
+
+@copyright 2022 .
