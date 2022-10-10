@@ -2,4 +2,4 @@ demo commit
 
 ashutoshgaurav@gmail.com
 
-Rebasing conflicts
+conflicting changes.
