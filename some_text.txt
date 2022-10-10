@@ -15,6 +15,9 @@ The prerequisites are also file names, separated by spaces. These files need to 
 yes modified...
 some_text.txt
 
+#Thanks
+Thank you .
+
 ashutosh gaurav
 
 @copyright 2022 .
